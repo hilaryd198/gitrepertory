@@ -19,6 +19,9 @@ public class GitDemo {
         System.out.println ("Bonjour John");
         
         System.out.println ("nouvelle modification");
+        
+        int var = 5;
+        char c = 't';
     }
     
 }
